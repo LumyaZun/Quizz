@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Quizz</string>
+    <string name="todo">TODO</string>
+    <string name="q_tails" translatable="false">Q-Tails</string>
+    <string name="titlerules">Règles du Quizz</string>
+    <string name="rules">Règles</string>
+    <string name="home">Accueil</string>
+    <string name="langue">Langue</string>
+    <string name="tails" translatable="false">Tails</string>
+    <string name="Q" translatable="false">Q</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="trait" translatable="false">-</string>
+    <string name="welcome">Bienvenue sur Q-Tails</string>
+    <string name="explication1">Le quizz se compose de 5 questions, il faut répondre à toutes les questions pour finir le quizz.</string>
+    <string name="explication2">A chaque bonne réponse, vous gagnez un point. A la fin du quizz, vous obtenez un score en pourcentage basé sur les 5 questions.</string>
+    <string name="explication3">En fonction, de votre score, un message différent apparaîtra ! </string>
+    <string name="explication4">Vous ne disposez que de 30 secondes pour chaque question. Lorque vous répondez à une question, un bouton suivant apparaît !</string>
+    <string name="choice_langue">choice language</string>
+    <string name="valid">Validate</string>
+    <string name="nothing"> </string>
+    <string name="start">Start</string>
+    <string name="txthome">Vous venez d\'arriver sur Q-tails, un petit quizz simple.</string>
+    <string name="suivant">Suivant</string>
+    <string name="txthome2">Pour lancer une partie, il suffit d\'appuyer sur le bouton Start juste en-dessous. </string>
+    <string name="txthome3">Mais je vous conseille d\'aller lire les règles avant de commencer.</string>
+</resources>

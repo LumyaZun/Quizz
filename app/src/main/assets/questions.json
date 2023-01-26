@@ -1,0 +1,52 @@
+[
+        {
+            "question": "Quel est le nom de la capitale de la France ?",
+            "answers": [
+                "Paris",
+                "Londres",
+                "New York",
+                "Berlin"
+            ],
+            "correctAnswer": "Paris"
+        },
+        {
+            "question": "Quel est le plus grand pays du monde ?",
+            "answers": [
+                "Chine",
+                "Inde",
+                "Etats-Unis",
+                "Russie"
+            ],
+            "correctAnswer": "Russie"
+        },
+        {
+            "question": "Quelle couleur ne fait pas partie de l'arc-en-ciel ?",
+            "answers": [
+                "Rose",
+                "Rouge",
+                "Vert",
+                "Jaune"
+            ],
+            "correctAnswer": "Rose"
+        },
+        {
+            "question": "Comment se nomme le Président de la République actuel ?",
+            "answers": [
+                "Eric Zemmour",
+                "Marine Le Pen",
+                "Emmanuel Macron",
+                "Philippe Poutou"
+            ],
+            "correctAnswer": "Emmanuel Macron"
+        },
+        {
+            "question": "Donnez le résultat de ce calcul : 2*(12-5)",
+            "answers": [
+                "19",
+                "14",
+                "2125",
+                "24"
+            ],
+            "correctAnswer": "14"
+        }
+    ]

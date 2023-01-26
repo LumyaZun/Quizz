@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="todo">TODO</string>
+
+    <string name="q_tails" translatable="false">Q-Tails</string>
+    <string name="titlerules">Règles du Quizz</string>
+    <string name="rules">Règles</string>
+    <string name="home">Accueil</string>
+    <string name="langue">Langue</string>
+    <string name="tails" translatable="false">Tails</string>
+    <string name="Q" translatable="false">Q</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="trait" translatable="false">-</string>
+    <string name="welcome">Bienvenue sur Q-Tails</string>
+    <string name="explication1">Le quizz se compose de 5 questions, il faut répondre à toutes les questions pour finir le quizz.</string>
+    <string name="explication2">A chaque bonne réponse, vous gagnez un point, à la fin du quizz, vous obtenez donc un score sur 5.</string>
+    <string name="explication3">vola</string>
+    <string name="choice_langue">choisir langue</string>
+    <string name="valid">Valider</string>
+    <string name="nothing"> </string>
+    <string name="start">Commencez</string>
+    <string name="txthome">txthome</string>
+    <string name="suivant">Suivant</string>
+    <string name="txthome2">txthome2</string>
+    <string name="txthome3">txthome3</string>
+    <string name="explication4">explication4</string>
+
+</resources>
